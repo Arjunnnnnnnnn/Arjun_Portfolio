@@ -1,5 +1,9 @@
 # Arjun_Portfolio
-This is repository of my dis assignment i.e Designer Portfolio website
-Link :- https://arjundesignportfolio.netlify.app
+This is the repository of my dis assignment i.e Design Portfolio website.
+
+
+
+
+Link for my website:- https://arjundesignportfolio.netlify.app
 
 
